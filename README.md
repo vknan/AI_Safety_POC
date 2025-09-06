@@ -1,6 +1,4 @@
-# AI_Safety_POC
-
-# POC Roadmap (10 Steps)
+# AI Safety POC Roadmap (10 Steps)
 
 ## 1) Define scope, success criteria, and safety guardrails
 
